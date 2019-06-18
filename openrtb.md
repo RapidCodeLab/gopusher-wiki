@@ -45,3 +45,96 @@
   "cur":["USD"]
 }
 ```
+#### Native Ad Request
+
+```json
+{
+  "native":{
+    "ver":"1.2",
+    "assets":[{
+      "id":0,
+      "required":1,
+      "title":{
+        "len":140
+      }
+    },{
+      "id":1,
+      "required":1,
+      "img":{
+        "type":1,
+        "wmin":192,
+        "hmin":192
+      }
+    },{
+      "id":2,
+      "required":0,
+      "img":{
+        "type":3,
+        "wmin":800
+      }
+    },{
+      "id":2,
+      "required":1,
+      "data":{
+        "type":2
+      }
+    }
+    ]
+  }
+}
+```
+
+### BidResponse
+```json
+{
+  "id":"129ca6dd-5403-4476-a4a6-555d6a538bc4",
+  "seatbid":[{
+    "bid":[{
+      "id":"generated id",
+      "impid":"1",
+      "price":0.02,
+      "adm":"native ad response obj"
+    }]
+  }]
+}
+```
+
+#### Native Ad Response
+
+```json
+{
+  "native": {
+    "link": {
+      "url": "https://adurl.com/"
+    },
+    "assets": [
+      {
+        "id": 0,
+        "required": 1,
+        "title": {
+          "text": "Push Notificaion Title"
+        }
+      },{
+        "id": 1,
+        "required":1,
+        "img":{
+          "url":"https://push-notification-icon-url.com/icon.jpg"
+        }
+      },{
+        "id": 2,
+        "required":0,
+        "img":{
+          "url":"https://push-notification-image-url.com/image.jpg"
+        }
+      },{
+        "id":3,
+        "required":1,
+        "data":{
+          "value":"Push notification body"
+        }
+      }
+      
+    ]
+  }
+}
+```
