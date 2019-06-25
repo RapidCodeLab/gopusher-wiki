@@ -52,13 +52,13 @@
   "native":{
     "ver":"1.2",
     "assets":[{
-      "id":0,
+      "id":1,
       "required":1,
       "title":{
         "len":140
       }
     },{
-      "id":1,
+      "id":2,
       "required":1,
       "img":{
         "type":1,
@@ -66,14 +66,14 @@
         "hmin":192
       }
     },{
-      "id":2,
+      "id":3,
       "required":0,
       "img":{
         "type":3,
         "wmin":800
       }
     },{
-      "id":2,
+      "id":4,
       "required":1,
       "data":{
         "type":2
@@ -109,25 +109,25 @@
     },
     "assets": [
       {
-        "id": 0,
+        "id": 1,
         "required": 1,
         "title": {
           "text": "Push Notificaion Title"
         }
       },{
-        "id": 1,
+        "id": 2,
         "required":1,
         "img":{
           "url":"https://push-notification-icon-url.com/icon.jpg"
         }
       },{
-        "id": 2,
+        "id": 3,
         "required":0,
         "img":{
           "url":"https://push-notification-image-url.com/image.jpg"
         }
       },{
-        "id":3,
+        "id":4,
         "required":1,
         "data":{
           "value":"Push notification body"
