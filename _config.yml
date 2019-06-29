@@ -58,7 +58,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-baseurl: /docs/intro
+baseurl: https://rapidcodelab.github.io/gopusher-wiki/docs/intro
 
 footer:
 
