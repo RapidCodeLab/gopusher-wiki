@@ -16,6 +16,10 @@ Go to [VAPID Key Pair Generation Tool](https://vapid-keys.rapidcodelab.repl.run/
 
 ## Preparing Server
 
+Software requirements for server: Docker CE, Docker Compose and Git, thats all, install them.
+
+Login to our private docker registry on gitlab with deploy token:
+
 ```bash 
 docker login -u gitlab+deploy-token-73861 -p FGmBV5PLDzvX6aBwa7Lq registry.gitlab.com 
 ```
