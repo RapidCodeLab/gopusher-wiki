@@ -13,7 +13,7 @@ Limited version is full featured, but have limit on subscribers amount. The limi
 This versions has no limits, after expired, application automatically go to Limited mode.
 
 
-### 3. Annual: Cost is $299 based on annual basis payments (save $58)
+### 3. Annual: Cost is $299 based on annual basis payments  
 
 This versions has no limits, after expired, application automatically go to Limited mode.
 
