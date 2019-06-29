@@ -1,3 +1,2 @@
-remote_theme: "mmistakes/minimal-mistakes@4.16.4"
-sidebar:
-  - title: "Title"
+remote_theme: mmistakes/minimal-mistakes 
+
