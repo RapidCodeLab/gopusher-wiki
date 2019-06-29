@@ -17,7 +17,7 @@ Operate millions subscribers on simple VPS, application will still fast.
        
 ### Subscribers tracking by channels
 
-Place subscription code on any sites and separate them by channel for followtargeting. For example set channels "adult", "intertainment", "bussiness" oreven "yoursite.com" and target by this channels in campaigns.
+Place subscription code on any sites and separate them by channel for follow targeting. For example set channels "adult", "intertainment", "bussiness" or even "yoursite.com" and target by this channels in campaigns.
 
 ### Fully self hosted web application
 
