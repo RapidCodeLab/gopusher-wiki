@@ -33,10 +33,23 @@ Software requirements for server: Docker CE, Docker Compose and Git, thats all, 
 Login to our private docker registry on gitlab with deploy token(read only mode):
 
 ```bash 
-docker login -u gitlab+deploy-token-73861 -p FGmBV5PLDzvX6aBwa7Lq registry.gitlab.com 
+#docker login -u gitlab+deploy-token-73861 -p FGmBV5PLDzvX6aBwa7Lq registry.gitlab.com 
 ```
 
 
 
 ## Plartform Installation
+
+1. Clone deploy repository from github:
+
+```bash
+#git clone https://github.com/RapidCodeLab/gopusher-public.git
+```
+
+2. Change files & configs
+
+
+3. Run init script
+
+
 
