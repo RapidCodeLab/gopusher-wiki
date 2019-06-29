@@ -34,6 +34,7 @@ paginate_path: /docs/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
+  - _pages
   - _docs
 
 # Exclude from processing.
@@ -63,10 +64,18 @@ footer:
 collections:
   docs:
     output: true
-    permalink: /:path/
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
+   # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      sidebar:
+        nav: "docs"
   # _docs
   - scope:
       path: "/"
