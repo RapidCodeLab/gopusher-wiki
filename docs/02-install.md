@@ -38,7 +38,7 @@ Login to our private docker registry on gitlab with deploy token(read only mode)
 
 
 
-## Plartform Installation
+## Platform Installation
 
 1. Clone deploy repository from github:
 
