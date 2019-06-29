@@ -1,4 +1,4 @@
-# 02 Installation
+# Installation
 
 * [Server Requirments](#server-requirments)
 * [Preparing Server](#preparing-server)
