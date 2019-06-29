@@ -5,11 +5,11 @@
 
 ### Web Push Notifications through VAPID method 
 
-Application use VAPID(Voluntary Application Server Identification) method tosend push notifications directly to push services, bypassing FCM ( GoogleFirebase Cloud Messaging ). The VAPID (Voluntary Application ServerIdentification) is the newest way to receive and send push notificationsthrough the web. 
+Application use VAPID(Voluntary Application Server Identification) method to send push notifications directly to push services, bypassing FCM ( GoogleFirebase Cloud Messaging ). The VAPID (Voluntary Application ServerIdentification) is the newest way to receive and send push notifications through the web. 
 
 ### Written on Golang , packed to Docker container
 
-The Golang is programming language developed by Google, he provide fastestexecution applications, light concurrency and so on. The Docker is a tooldesigned to make it easier to create, deploy, and run applications by usingcontainers. Containers allow a developer to package up an application withall of the parts it needs, such as libraries and other dependencies, andship it all out as one package.  Docker provide to application independmentto OS , run your application on any unix system without any troubles.
+The Golang is programming language developed by Google, he provide fastestexecution applications, light concurrency and so on. The Docker is a tooldesigned to make it easier to create, deploy, and run applications by usingcontainers. Containers allow a developer to package up an application withall of the parts it needs, such as libraries and other dependencies, and ship it all out as one package.  Docker provide to application independmentto OS , run your application on any unix system without any troubles.
 
 ### Unlimited subscribers loadless
 
