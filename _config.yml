@@ -58,6 +58,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+baseurl: /docs/intro
 
 footer:
 
