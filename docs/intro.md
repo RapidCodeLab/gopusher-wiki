@@ -1,5 +1,5 @@
 
-## Main Features 
+## 01 Main Features 
 
 * Web Push Notifications through VAPID method
 * Written on Golang, packed to Docker container
