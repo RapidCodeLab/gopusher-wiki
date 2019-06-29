@@ -1,7 +1,7 @@
 ## Price Options
 
 
-There are four options available:
+There are four price options available:
 
 ### 1. Limited: Cost is free
 
