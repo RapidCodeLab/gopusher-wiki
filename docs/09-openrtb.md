@@ -1,3 +1,5 @@
+### Interaction to external DSPs
+
 ### OpenRTB 2.5  & OpenRTB Dynamic Native Ads API Specification Version1.2
 
 #### BidRequest
