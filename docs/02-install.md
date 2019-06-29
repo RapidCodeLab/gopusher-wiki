@@ -15,6 +15,11 @@ The minimum hardware requirement is VPS with 2 cores, 2 GB RAM and 40GB SSD. Pla
 
 Go to [VAPID Key Pair Generation Tool](https://vapid-keys.rapidcodelab.repl.run/){:target="_blank"} , enter your email and press ENTER. Don't forget to write down your keys. This data will be used by follow steps.
 
+
+## Get license key
+
+Get license key at [https://lc.rapidcodelab.com/](https://lc.rapidcodelab.com/){:target="_blank"} . Don't forget to write down your keys. This data will be used by follow steps.
+
 ## Preparing Domain 
 
 To DNS records of domain you chosen for platform working, you should add few records, for the sample: 
