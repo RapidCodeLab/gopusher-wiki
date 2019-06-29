@@ -1,5 +1,6 @@
 ## Application Managment
 
+After successfully install, there are three simple command to manage your application:
 
 ### Run
 ```bash
