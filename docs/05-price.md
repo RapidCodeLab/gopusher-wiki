@@ -10,12 +10,12 @@ Limited version is full featured, but have limit on subscribers amount. The limi
 
 ### 2. Monthly: Cost is $29 based on monthly basis payments
 
-This versions has no limits, after expired, application automatically go to Limited mode.
+This version has no limits, after expired, application automatically go to Limited mode.
 
 
 ### 3. Annual: Cost is $299 based on annual basis payments  
 
-This versions has no limits, after expired, application automatically go to Limited mode.
+This version has no limits, after expired, application automatically go to Limited mode.
 
 ### 4. Source Code: Cost is $1.999 one time payment
 
