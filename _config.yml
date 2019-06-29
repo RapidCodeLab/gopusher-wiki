@@ -73,7 +73,7 @@ defaults:
       share: false
       comments: false
       sidebar:
-nav: "docs"
+        nav: "docs"
 
 category_archive:
   type: liquid
