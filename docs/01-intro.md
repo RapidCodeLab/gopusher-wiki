@@ -5,7 +5,7 @@
 
 ### Web Push Notifications through VAPID method 
 
-Application use VAPID(Voluntary Application Server Identification) method to send push notifications directly to push services, bypassing FCM ( Google Firebase Cloud Messaging ). The VAPID (Voluntary Application ServerIdentification) is the newest way to receive and send push notifications through the web. 
+Application use VAPID(Voluntary Application Server Identification) method to send push notifications directly to push services, bypassing FCM ( Google Firebase Cloud Messaging ). The VAPID (Voluntary Application Server Identification) is the newest way to receive and send push notifications through the web. 
 
 ### Written on Golang , packed to Docker container
 
