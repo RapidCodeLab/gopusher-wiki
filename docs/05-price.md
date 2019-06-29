@@ -3,7 +3,7 @@
 
 There are four options available:
 
-#### 1. Limited: Cost is free
+### 1. Limited: Cost is free
 
 Limited version is full featured, but have limit on subscribers amount. The limit is 10.000, after limit reached, events app stops record subscribers to database and sender app send only 10.000 push notifications per time. 
 
