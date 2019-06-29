@@ -60,6 +60,10 @@ plugins:
 
 footer:
 
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _docs
