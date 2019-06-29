@@ -11,6 +11,8 @@ The minimum hardware requirement is VPS with 2 cores, 2 GB RAM and 40GB SSD. Pla
 
 ## Preparing VAPID Key Pair
 
+Go to [VAPID Key Pair Generation Tool](https://vapid-keys.rapidcodelab.repl.run/) , enter your email and press ENTER. Don't forget to write down your keys. This data will be used by follow steps.
+
 ## Preparing Server
 
 ```bash 
