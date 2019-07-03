@@ -14,3 +14,9 @@ docker-compose stop
 ```bash
 docker-compose pull
 ```
+
+### Show logs
+```bash
+docker-compose logs {container_name}
+```
+Container names is webapp, senderapp, eventsapp and so on.
