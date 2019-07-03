@@ -45,34 +45,34 @@ docker login -u gitlab+deploy-token-73861 -p FGmBV5PLDzvX6aBwa7Lq registry.gitla
 
 ## Platform Installation
 
-1. Clone deploy repository from github:
+### Clone deploy repository from github:
 
 ```bash
 git clone https://github.com/RapidCodeLab/gopusher-public.git
 ```
 
-2. Change files & configs
+### Change files & configs
 
-- Nginx configuration: /data/app.conf
+#### Nginx configuration: /data/app.conf
 
 Change the 'server_name' options depends on domain names you setup earlier. There are two subdomain for eventsapp and webapp containers.
 
-- Init script: initapp.sh
+#### Init script: initapp.sh
 
 Init script will automaticly get ssl sertificated for your subdomains and run containers for the first time. Set option 'domains=()' with your data. Don't forget make this file executable with command 'chmod +x initapp.sh' if needed.
 
 
-- Docker-compose configuration: docker-compose.yml
+#### Docker-compose configuration: docker-compose.yml
 
 Set your license key, VAPID keys, and login&password for admin dashboard.
 
-3. Run init script
+### Run init script
 
 ```bash
 ./initapp.sh
 ```
 
-4. Login to admin dashboard 
+### Login to admin dashboard 
 
 Go to https://your_webapp_domain_or_subdomain.com/panel/dashboard and enter your webapp login&pass.
 
