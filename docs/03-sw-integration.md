@@ -8,6 +8,7 @@
 
 Download or clone this git repository https://github.com/RapidCodeLab/gopusher-sw
 
-Change VAPID Public Key, Publisher's API Key, Channel and Events URL in files to your data.
+Change the VAPID Public Key, Publisher’s API Key, Channel, and Events URL in the file to match your data.
 
 Upload app.js & sw.js to your sites, include app.js to your pages.
+
