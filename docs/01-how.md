@@ -1,17 +1,14 @@
 ## How It Works
 
-
 ### Application Parts
 
-The GoPusher consists of several parts, each of them working in docker container. There are next containers: 
+The GoPusher app consists of several parts, each of them working in a Docker container. These are the various containers:
 
-* **nginx**  - web server that proxies all http requests to microservices
-* **mongodb** - document-based database server
-* **certbot** - certbot for getting & update ssl certificates for application domains automatically
-* **webapp** - application dashboard
-* **eventsapp** - application for collect events from service workers
-* **senderapp** - application for send push notifications
+* **nginx** - web server that proxies all http requests to microservices
+* **mongodb** - document-based database server
+* **certbot** - certbot for getting & update SSL certificates for application domains automatically
+* **webapp** - application dashboard
+* **eventsapp** - application for collecting events from service workers
+* **senderapp** - application for sending push notifications
 
-Another part is js scripts, included ServiceWorker, that should be placed to your sites for push-notification subscribe request. ServiceWorker send to eventsapp all events and subscriber data.
-
-### Workflow
+Another part is all of the scripts, including ServiceWorker, which should be placed on your sites for push-notification subscriber requests. ServiceWorker sends all events and subscriber data to eventsapp.
