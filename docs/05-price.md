@@ -1,22 +1,19 @@
-## Price Options
+## Pricing Options and Plans
 
+There are four different plans with different price options available:
 
-There are four price options available:
+### 1. Limited: Free
 
-### 1. Limited: Cost is free
+The limited version is full featured, but there is a limit to the number of subscribers. This limit is 10,000, and after the limit is reached, the events app stops recording new subscribers to the database. Also the sender app will only send out 10,000 push notifications each time.
 
-Limited version is full featured, but have limit on subscribers amount. The limit is 10.000, after limit reached, events app stops record subscribers to database and sender app send only 10.000 push notifications per time. 
+### 2. Monthly: $29 per month
 
+This version has no limits, but after the plan expires, the application will automatically revert to the Limited mode plan.
 
-### 2. Monthly: Cost is $29 based on monthly basis payments
+### 3. Annual: $299 per year
 
-This version has no limits, after expired, application automatically go to Limited mode.
+This version has no limits, but after the plan expires, the application will automatically revert to the Limited mode plan.
 
+### 4. Source Code: One-time fee of $1,999
 
-### 3. Annual: Cost is $299 based on annual basis payments  
-
-This version has no limits, after expired, application automatically go to Limited mode.
-
-### 4. Source Code: Cost is $1.999 one time payment
-
-You'll get all source code, except license checking module. Written on Golang, passes all linters. Source code may not be resold, redistributed or otherwise conveyed to a third party! 
+You’ll get all of the source code, except the license checking module. Written on Golang, passes all linters. Source code may not be resold, redistributed, or otherwise conveyed to a third party!
