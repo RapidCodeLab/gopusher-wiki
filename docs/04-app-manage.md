@@ -1,6 +1,6 @@
 ## Application Managment
 
-After successfully install, there are three simple command to manage your application:
+After successfully installing the application, there are three simple commands you will use to manage your application:
 
 ### Run
 ```bash
@@ -19,4 +19,4 @@ docker-compose pull
 ```bash
 docker-compose logs {container_name}
 ```
-Container names is webapp, senderapp, eventsapp and so on.
+The container names will be webapp, senderapp, eventsapp, etc.
