@@ -23,7 +23,7 @@ Get a license key at the [License Server](https://lc.rapidcodelab.com/){:target
 
 ## Preparing Domain 
 
-Log into your domain control panel and based on the example down below, add the following DSN records:
+Log into your domain control panel and based on the example down below, add the following DNS records:
 
     Record: A, Subdomain: web.yourdomain.com , IP: your server ipv4 
     Racord: A, Subdomain: events.yourdomain.com , IP:  your server ipv4 
