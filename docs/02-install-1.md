@@ -25,9 +25,9 @@ Get a license key at the [License Server](https://lc.rapidcodelab.com/){:target
 
 Log into your domain control panel and based on the example down below, add the following DSN records:
 
-    Record: A, Subdomain: web.yourdomain.com , IP: 195.12.34.56 
-    Racord: A, Subdomain: events.yourdomain.com , IP: 195.12.34.56
-    Racord: AAAA, Subdomain: events.yourdomain.com , IP: 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+    Record: A, Subdomain: web.yourdomain.com , IP: your server ipv4 
+    Racord: A, Subdomain: events.yourdomain.com , IP:  your server ipv4 
+    Racord: AAAA, Subdomain: events.yourdomain.com , IP:  your server ipv6
 
 Instead “web”, “events” you can choose anything you think more usable. In this example, “web” is for platform’s web application, “events” is for tracking events application. Record AAAA is required if you don’t want to miss IPv6 surfers.
 
