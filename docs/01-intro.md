@@ -1,5 +1,4 @@
-­­
-## Features Overview
+­­## Features Overview
 
 ### Web Push Notifications using the VAPID method
 

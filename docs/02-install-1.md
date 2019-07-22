@@ -13,7 +13,7 @@ The minimum hardware requirement is a VPS with 2 cores, 2 GB RAM, and 40GB SSD. 
 
 ## Preparing VAPID Key Pair
 
-Go to the [VAPID Key Pair Generation Tool](https://tools.reactpwa.com/vapid/){:target="_blank"}, enter your email, and press ENTER. Don’t forget to write down your keys. This data will be used in the following steps.
+Go to the [VAPID Key Pair Generation Tool](https://vapid-keys.rapidcodelab.repl.run/){:target="_blank"},  ([Another one tool](https://tools.reactpwa.com/vapid/){:target="_blank"}), enter your email, and press ENTER. Don’t forget to write down your keys. This data will be used in the following steps.
 
 
 ## Get License Key
