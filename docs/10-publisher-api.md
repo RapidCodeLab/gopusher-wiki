@@ -9,7 +9,7 @@ To enable publishers api, uncomment the corresponding lines in files  docker-com
 ### API Authorization
 
 
-### APID Endpoints
+### API Endpoints
 
 * GET */api/getSubscribers* - returns amount of total subscribed, unique subscribed and unsubscribed users by day. By default returns data for current month. You can use  a few GET params to filter returned data: 
     * *countries* - to filters data by country. For example: ?countries=RU,UK,US
