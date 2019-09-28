@@ -8,6 +8,8 @@ To enable publishers api, uncomment the corresponding lines in files  docker-com
 
 ### API Authorization
 
+For making your api requests authorized, add two HTTP headers to each request with names APIKey, APIEmail that contains your actual data.
+
 
 ### API Endpoints
 

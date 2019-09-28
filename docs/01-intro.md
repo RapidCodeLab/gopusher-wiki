@@ -39,6 +39,10 @@ The scheduler is based on each subscriber’s time zone, so, if you set the noti
 ### Personalized Push Notifications based on geo & device data
 In creatives you can use templates ##CITY##, ##REGION##, ##COUNTRY##, ##OS##, ##PLATFORM##, ##BROWSER##, and they will be replaced with actual subscriber data.
 
+### Click tracking
+
+You have able to use templates ##CHANNEL##, ##SUBID## in push notification link field, to pass this data to destination.
+
 ### Rich push notifications, Emoji support 👽 👍
 
 Creatives support this push notification data: title, body, icon, image, badge, vibrate, and up to two action buttons. The fields title, body, and action buttons support emojis.
